@@ -1,0 +1,16 @@
+{
+  "name": "cfeawr_mini5_authorization_form",
+  "version": "1.0.0",
+  "description": "Authorization Form A client just called you to say that they love their new website! There’s only one problem: they don’t like how their contact page displays their personal information for all to see.",
+  "main": "Contact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
